@@ -1,5 +1,5 @@
 # Spring PetClinic Sample Application  
-# Modified By DevOps Shack  https://www.youtube.com/@devopsshack
+# Modified By DevOps Lisa-Eileen Odinukwe  https://www.youtube.com/@devopsshack
 
 [![Java CI with Maven](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=spring-petclinic_spring-framework-petclinic&metric=alert_status)](https://sonarcloud.io/dashboard?id=spring-petclinic_spring-framework-petclinic)
@@ -18,8 +18,8 @@ The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggre
 
 ### With Maven command line
 ```
-git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
-cd spring-framework-petclinic
+git clone https://github.com/Lisaeileen/Petclinic.git
+cd Petclinic
 ./mvnw jetty:run-war
 # For Windows : ./mvnw.cmd jetty:run-war
 ```
@@ -196,10 +196,10 @@ mvn jib:build
 
 ## Interesting Spring Petclinic forks
 
-The Spring Petclinic master branch in the main [spring-projects](https://github.com/spring-projects/spring-petclinic)
+The Spring Petclinic master branch in the main [spring-projects](https://github.com/Lisaeileen/Petclinic.git)
 GitHub org is the "canonical" implementation, currently based on Spring Boot and Thymeleaf.
 
-This [spring-framework-petclinic](https://github.com/spring-petclinic/spring-framework-petclinic) project is one of the [several forks](https://spring-petclinic.github.io/docs/forks.html) 
+This [spring-framework-petclinic](https://github.com/Lisaeileen/Petclinic.git) project is one of the [several forks](https://spring-petclinic.github.io/docs/forks.html) 
 hosted in a special GitHub org: [spring-petclinic](https://github.com/spring-petclinic).
 If you have a special interest in a different technology stack
 that could be used to implement the Pet Clinic then please join the community there.
@@ -220,7 +220,7 @@ Here is a list of them:
 
 # Contributing
 
-Approved by the Spring team, this repo is a fork of the [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic).
+Approved by the Spring team, this repo is a fork of the [spring-projects/spring-petclinic](https://github.com/Lisaeileen/Petclinic.git).
 
 The [issue tracker](/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
